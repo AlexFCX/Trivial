@@ -1,0 +1,11 @@
+{
+    "introduction":"Averigua cuánto sabes.", 
+	"questions":[
+		{"question":"La piel de Hulk es...", 
+		 "answers":["Roja","Verde","Gris","Amarillenta"],
+		"correct":2},
+		{"question":"El nombre de pila de Furia es...", 
+		 "answers":["Joseph","Robert","Nicholas","Bruce"],
+		 "correct":3}
+    ]
+}
